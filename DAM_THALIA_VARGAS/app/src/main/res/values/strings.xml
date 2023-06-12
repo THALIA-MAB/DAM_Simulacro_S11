@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DAM_THALIA_VARGAS</string>
+    <string name="ExamenDeAdmision">Examen de Admisión 2023</string>
+    <string name="ApellidosNombres">Apellidos y Nombres:</string>
+    <string name="CorreoElectronico">Correo electronico:</string>
+    <string name="Clave">Clave:</string>
+    <string name="IngenieriaSistemas">Ingeniería de Sistemas</string>
+    <string name="IngenieriaAmbiental">Ingeniería Ambiental</string>
+    <string name="IngenieríaMecánica">Ingeniería Mecánica</string>
+    <string name="Administración">Administración</string>
+    <string name="radio">Radio</string>
+    <string name="internet">Internet</string>
+    <string name="amigo">Amigo</string>
+    <string name="publicidad">Publicidad</string>
+    <string name="enviar">Enviar</string>
+</resources>
